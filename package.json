@@ -1,0 +1,24 @@
+{
+  "name": "Discord-welcome-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "welcome"
+  ],
+  "author": "virgel",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3"
+  }
+}
